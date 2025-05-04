@@ -9,3 +9,4 @@ class S3OperationError(Exception):
 class GlueJobError(Exception):
     """Raised when Glue job fails"""
     pass
+
